@@ -65,7 +65,7 @@ int main(int argc, char** argv)
     //namedWindow("Output windows");
     //createTrackbar( " Canny thresh:", "Output windows", &thresh, max_thresh, 0 );
     
-    cout<<"modifcommit"<<endl;
+    //cout<<"modifcommit"<<endl;
     waitKey(0);
 }
 
